@@ -6,6 +6,16 @@
     border: none;
     border-radius: 5px;
 }
+/* For All Section HEadings */
+.section-heading{
+    font-size: 48px;
+    font-weight: 600;
+}
+.btn-click:hover{
+    font-weight: bold;
+    background-color: #f16340;
+    color: white;
+}
 /* starting interface */
 .header{
     background-color: #264653;
@@ -36,4 +46,14 @@
 /* Frequently Asked Question */
 .faq-decoration{
     color: #E76F51;
+}
+/* Bonus Section Get Connected */
+.logo-youtube{
+    color: red;
+}
+.logo-linkedin{
+    color: blue;
+}
+.logo-skype{
+    color: rgb(57, 184, 226);
 }
